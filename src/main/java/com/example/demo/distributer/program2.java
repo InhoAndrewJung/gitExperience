@@ -9,7 +9,7 @@ public class program2 {
 
 	@GetMapping("/go")
 	public @ResponseBody String path() {
-		return "I want a go company";
+		return "I want a go KB bank";
 	}
 }
  
