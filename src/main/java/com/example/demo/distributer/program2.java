@@ -9,6 +9,7 @@ public class program2 {
 
 	@GetMapping("/go")
 	public @ResponseBody String path() {
-		return "I want a go home";
+		return "I want a go company";
 	}
 }
+ 
